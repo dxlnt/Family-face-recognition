@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(195, 129, 218);
+    color: whitesmoke;
+}
+
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+
+.objects{
+    color:yellow;
+    font-size: 22px;
+}
+
+#cam{
+    border:2px dashed black;
+width: 350px;
+height: 350px;
+}
